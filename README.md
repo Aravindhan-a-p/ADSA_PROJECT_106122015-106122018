@@ -5,7 +5,10 @@ This project explores the efficiency of string matching algorithms, focusing on 
 
 ## Methodology
 We conducted a comprehensive analysis of the BNDM, KMP, and BMHS algorithms, focusing on four key performance metrics:
->**Runtime**: Measure of the time taken by each algorithm to find matches in a given text.
->**Memory Usage**: Evaluation of the memory footprint of each algorithm during execution.
+> **Runtime**: Measure of the time taken by each algorithm to find matches in a given text.
+
+> **Memory Usage**: Evaluation of the memory footprint of each algorithm during execution.
+
 >**Number of Comparisons**: Count of the total number of character comparisons performed by each algorithm.
+
 >**Number of Shifts**: Total number of shifts made by the pattern during the matching process.
